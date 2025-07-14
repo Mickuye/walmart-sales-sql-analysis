@@ -2,7 +2,7 @@
 SQL analysis of Walmart weekly sales dataset, exploring sales trends, economic indicators and more.
 
 ### 🟢 Beginner Level
-- List all unique store numbers
+- List all unique store numbers (https://github.com/Mickuye/walmart-sales-sql-analysis/blob/3cfec691f5b8190053ae5b636542d9c4f16302bd/Walmart.sql#L4)
 - Find total weekly sales for Store 1
 - Count how many holiday weeks are in the dataset
 - Find the average weekly sales per store
